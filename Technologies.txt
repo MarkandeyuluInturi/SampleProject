@@ -1,4 +1,4 @@
 Technologies,
 Hadoop
 MapReduce
-Hive
+
