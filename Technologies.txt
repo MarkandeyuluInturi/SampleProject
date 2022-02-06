@@ -2,3 +2,4 @@ Technologies,
 Hadoop
 MapReduce
 Hive
+Hbase
