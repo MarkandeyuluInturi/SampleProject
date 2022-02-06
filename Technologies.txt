@@ -3,3 +3,4 @@ Hadoop
 MapReduce
 Hive
 Hbase
+Sqoop
